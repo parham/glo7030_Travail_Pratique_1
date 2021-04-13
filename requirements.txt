@@ -1,0 +1,15 @@
+torch
+torchvision
+pandas
+ipykernel
+matplotlib
+scikit-learn
+graphviz
+ipython
+gensim
+numpy
+scipy
+Pillow
+poutyne
+prettytable
+imageio
