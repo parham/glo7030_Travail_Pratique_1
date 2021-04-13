@@ -6,6 +6,7 @@
   </a>
 
   <h3 align="center">Apprentissage par réseaux de neurones profonds</h3>
+  <h3 align="center">GLO-7030</h3>
   <h4 align="center">Travail Pratique 1</h4>
   </p>
 </p>
