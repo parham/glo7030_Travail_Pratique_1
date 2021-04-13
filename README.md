@@ -12,7 +12,6 @@
 </p>
 
 ## About The Project
-**GLO-7030** : Apprentissage par réseaux de neurones profonds (Travail Pratique 1)
 
 **Course**: GLO-4030/GLO-7030 : Apprentissage par réseaux de neurones profonds <br>
 **Title**: Travail Pratique 1 <br>
