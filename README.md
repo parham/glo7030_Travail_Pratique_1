@@ -22,4 +22,4 @@
 
 ## Report
 
-[Intro.pdf](http://parham.github.io/glo7030_Travail_Pratique_1/report.pdf)
+[Latest Report](http://github.com/parham/glo7030_Travail_Pratique_1/blob/main/report.pdf)
